@@ -1,0 +1,5 @@
+installa python (il pacchetto è dentro alla cartella)
+apri cmd
+entra nella cartella
+python get_pip.py
+python -m pip install pillow
