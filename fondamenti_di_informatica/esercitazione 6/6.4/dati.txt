@@ -1,0 +1,2 @@
+programmatori 5 42 35 63 18 34
+analisti 2 35 64
